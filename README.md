@@ -1,7 +1,5 @@
 # Hi, I'm Darren 👋
 
----
-
 ## 🚀 About Me
 
 **What I do:**
@@ -10,7 +8,6 @@ Large enterprises love AI, but often struggle to move beyond basic chatbots to t
 **Key Works** 
 Built "GENie", an Enterprise-grade AI Agent Builder for Meta and AWS: [**AWS x BCG x Meta partnership**](https://partner-resources.awscloud.com/aws-gamechangers/aws-bcg-meta-apj-telecom-solutions-partnership-3)
 
----
 
 ## ⚡ What I Build (The Philosophy)
 
@@ -19,7 +16,6 @@ This repository is my home for practical engineering. I build:
 2.  **SME Solutions:** Lightweight tools that solve heavy operational problems for my clients.
 3.  **Agentic Experiments:** Unique workflows pushing the boundaries of what AI agents can automate.
 
----
 
 ## 📂 Featured Projects
 
@@ -37,7 +33,6 @@ I built a browser extension that bridges this gap.
 
 [📂 **View Source Code**](./chrome-extension)
 
----
 
 ## 🛠 Technical Stack
 
