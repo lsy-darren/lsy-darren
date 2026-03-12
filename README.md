@@ -35,3 +35,11 @@ This repository is my home for practical engineering. I build:
 
 [📂 **View Source Code**](https://github.com/lsy-darren/chrome-river-automator)
      
+### 3. Archive This Page
+  **Status:** Active | **Stack:** JavaScript, Chrome API
+
+  **The Problem:** Paywalled or ephemeral pages disappear — and there's no fast way to pull up an archived version without manually navigating to archive.ph.
+
+  **The Solution:** A one-click Chrome extension that instantly redirects the current tab to its archived version on archive.ph.
+
+  [📂 **View Source Code**](https://github.com/lsy-darren/archive-redirect)
