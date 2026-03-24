@@ -8,7 +8,7 @@ Large enterprises love AI, but often struggle to move beyond basic chatbots to t
 **Key Works**
 Built "GENie", an Enterprise-grade AI Agent Builder for Meta and AWS: [**AWS x BCG x Meta partnership**](https://partner-resources.awscloud.com/aws-gamechangers/aws-bcg-meta-apj-telecom-solutions-partnership-3)
 
-## ⚡ What I Build (The Philosophy)
+## ⚡ What I Build
 
 This repository is my home for practical engineering. I build:
 1. **LifeOS Tools:** Apps that remove friction from my own life.
