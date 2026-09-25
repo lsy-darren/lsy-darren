@@ -1,22 +1,9 @@
 # Hi, I'm Darren 👋
 
-## 🚀 About Me
+**About this page**
+- Building @ Sierra, as part of the Agent Development Team
+- Plus some personal writing and projects below
 
-**What I do:**
-Large enterprises love AI, but often struggle to move beyond basic chatbots to tangible business ROI. I help organizations build and launch advanced **Agentic AI** solutions that drive measurable impact in scalable, unique ways.
-
-**Key Works**
-Built "GENie", an Enterprise-grade AI Agent Builder for Meta and AWS: [**AWS x BCG x Meta partnership**](https://partner-resources.awscloud.com/aws-gamechangers/aws-bcg-meta-apj-telecom-solutions-partnership-3)
-
-## ⚡ What I Build
-
-This repository is my home for practical engineering. I build:
-1. **LifeOS Tools:** Apps that remove friction from my own life.
-2. **SME Solutions:** Lightweight tools that solve heavy operational problems for my clients.
-3. **Agentic Experiments:** Unique workflows pushing the boundaries of what AI agents can automate.
-     
-## 📂 Featured Projects
-     
 ### 1. Personal Finance Tracker
 **Status:** Active | **Stack:** Python, Google Gemini API, n8n
 
